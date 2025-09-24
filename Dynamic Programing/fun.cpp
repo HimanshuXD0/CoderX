@@ -20,7 +20,7 @@ int decodeVariations(const string& s)
          // int n = stoi(t);
          // if(n<=26) ans++;
     }
-    return ans+2;
+    return ans+9;
  
 }
 
